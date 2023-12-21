@@ -31,7 +31,7 @@
         <h2>Compact Disk</h2>
     </div>
     <div class="search">
-        <form action="/Cassette" method="GET">
+        <form action="/Compactdisk" method="GET">
             <input type="text" class="search-input" name="search" placeholder="Search...">
             <button type="submit" class="search-button">Search</button>
         </form>
